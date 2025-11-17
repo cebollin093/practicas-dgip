@@ -1,4 +1,4 @@
-# sistema_pagos_dgip_ultra_simple.py
+# sistema_pagos_dgip.py
 # Versión más simple posible conservando todas las funciones reales
 
 from datetime import datetime, date
@@ -133,4 +133,5 @@ def main():
             print("Opción inválida.")
 
 if __name__ == "__main__":
+
     main()
